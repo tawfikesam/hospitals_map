@@ -1,0 +1,18 @@
+body {direction: rtl;
+    
+}
+
+footer{ background-color: darkolivegreen;
+    padding-right: 50px;
+
+    
+}
+footer p{ margin: 0;
+    color: white;   
+}
+.intro{ text-align: justify;
+    padding: 50px 0;
+    
+}
+.nav{ text-align: justify;}
+
